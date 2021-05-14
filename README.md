@@ -9,9 +9,9 @@
 ```js
 const db = require('elbase');
 
-db.set('userInfo', 'id')
-db.push('userInfo.items', 'apple')
-db.add('userInfo.balance', 500)
+db.set('userInfo', 'HERE_ID')
+db.push('userInfo.items', 'sword')
+db.add('userInfo.balance', 100)
 db.get('userInfo.balance')
 db.get('userInfo.items')
 db.fetch('userInfo')
