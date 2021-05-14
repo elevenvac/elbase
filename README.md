@@ -1,11 +1,7 @@
 # ElBase
-### Contact
-* [Discord](https://discord.gg/T4BMtSu)
+**Support: [discord.gg/T4BMtSu](https://discord.gg/T4BMtSu)**
 
-### Creators / Developers
-👤 Eleven
-
-### Documentation
+### Example
 ```js
 const db = require('elbase');
 
@@ -29,5 +25,20 @@ new db.table(name)
 .subtract(key, number, [options]) > Rank updated
 ```
 
-### Setup
-- npm i elbase
+### Installation
+**Linux**
+- **Ubuntu** `sudo apt-get install build-essential, npm i elbase`
+- **CenTos** `npm i node-gyp rebuild, npm i elbase`
+- **Fedora** `npm i elbase`
+- **Kali** `npm i elbase`
+- **Pardus** `npm i elbase`
+
+**Windows**
+- **Run:** `npm -g --add-python-to-path install windows-build-tools node-gyp` in cmd (run as administrator)
+- **Run:** `npm i elbase`
+- 
+**Mac**
+- **Install:** XCode
+- **Run:** `npm i -g node-gyp` in terminal
+- **Run:** `node-gyp --python /path/to/python2.7` (skip this step if you didn't install python 3.x)
+- **Run:** `npm i elbase`
