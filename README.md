@@ -1,5 +1,6 @@
 # ElBase
 **Support: [discord.gg/T4BMtSu](https://discord.gg/T4BMtSu)**
+**Example Bot: [elevenvac/elbase-example-bot](https://github.com/elevenvac/elbase-example-bot)**
 
 ### Example
 ```js
