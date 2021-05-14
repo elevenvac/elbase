@@ -36,7 +36,7 @@ new db.table(name)
 **Windows**
 - **Run:** `npm -g --add-python-to-path install windows-build-tools node-gyp` in cmd (run as administrator)
 - **Run:** `npm i elbase`
-- 
+
 **Mac**
 - **Install:** XCode
 - **Run:** `npm i -g node-gyp` in terminal
