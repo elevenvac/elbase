@@ -1,0 +1,32 @@
+{
+  "name": "elbase",
+  "version": "1.0.0",
+  "description": "Open source database module.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "clear && nodemon test/test.js"
+  },
+  "types": "types/index.d.ts",
+  "keywords": [
+    "elbase",
+    "data",
+    "database",
+    "discord.js",
+    "easy",
+    "simple",
+    "quick",
+    "json"
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elevenvac/elbase"
+  },
+  "dependencies": {
+    "better-sqlite3": "^7.1.1",
+    "lodash": "^4.17.20"
+  }
+}
