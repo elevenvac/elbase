@@ -4,7 +4,7 @@ let db;
 
 if (!db) db = new Database("./database.sqlite");
 
-var dc = "https://discord.gg/xMTM9eN"
+var dc = "https://discord.com/invite/HWjPAAs9d3"
 var methods = {
     fetch: require("./methods/fetch.js"),
     set: require("./methods/set.js"),
