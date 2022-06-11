@@ -2,14 +2,8 @@
   <img width="100" src="https://raw.githubusercontent.com/elevenvac/elevenvac/master/Eleven_icon_higer_florence.png" alt="Eleven Icon">
 </p>
 
-## Description
-⚡ ElBase is open-source sqlite database module.
-
-## Programming Languages
+## Languages
 `JavaScript`
-
-## Contributors
-Thanks for contributions: `-`
 
 ## Installation
 **Linux**
