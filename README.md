@@ -5,6 +5,9 @@
 ## Languages
 `JavaScript`
 
+## Contributors
+Thanks for contributions: `lyertia`
+
 ## Installation
 **Linux**
 - **Ubuntu** `sudo apt-get install build-essential, npm i elbase`
